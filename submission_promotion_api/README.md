@@ -1,4 +1,4 @@
-# Submission 2 - Student Routes
+# SMKDEV Scholarships Batch 2 - Final Submissions
 
 Ini merupakan Final Submission yang akan menguji pemahaman pembelajaran dan pemahaman kamu selama live session berlangsung. Kamu dapat melihat live session yang telah diberikan sebelumnya untuk membantu kamu dalam menyelesaikan Final Submission ini
 
